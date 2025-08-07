@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TABEL HTML</title>
+</head>
+<body>
+<!-- Tabel -->
+<h1>Table</h1>
+<h4>Tabel standar </h4>
+<table border="1">
+    <!--tr adalah   tag untuk membuat baris pada tabel-->
+    <!-- td adalah tag untuk membuat kolom pada tabel -->
+    <!-- th adalah tag untuk membuat header pada tabel -->
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+    </tr>
+        <tr>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    <h4> Dengan header</h4>
+    <!-- <td>	Membuat sel data biasa (tidak bold)
+<th>	Membuat sel header (teks tebal dan rata tengah)
+<h1>	Judul besar halaman
+<h4>	Judul kecil, digunakan untuk subbagian tabel -->
+    <table border="1">
+        <tr>
+            <th>senin</th>
+            <td>10.10</td>
+            <td>12.00</td>
+            <td>14.00</td>
+        </tr>
+        <tr>
+            <th>selasa</th>
+            <td>10.10</td>
+            <td>12.00</td>
+            <td>14.00</td>
+        </tr>
+    </table>
+    <br>
+    <table border="1">
+        <th>senin</th>
+        <th>selasa</th>
+        <tr>
+            <td>10.00</td>
+            <td>11.00</td>
+        </tr>
+        <tr>
+            <td>12.00</td>
+            <td>14.00</td>
+        </tr>
+    </table>
+    <br>
+     <table border="1">
+        <th></th>
+         <th>senin</th>
+         <tr>
+             <th>
+                 10:00
+             </th>
+             <td>berangkat ke sekolah </td>
+         </tr>
+         <tr>
+             <th>
+                    12:00
+             </th>
+             <td>makan siang</td>
+         </tr>
+     </table>
+      <h4>alokasi kolom</h4>
+     <table border="1">
+        <th></th>
+         <th>senin</th>
+         <th>selasa</th>
+         <tr>
+             <th>
+                 10:00
+             </th>
+             <td>berangkat ke sekolah</td>
+             <td>berangkat olahraga</td>
+         </tr>
+         <tr>
+             <th rowspan="2">
+                    12:00
+             </th>
+             <td colspan="2"> makan siang</td>
+         </tr>
+         <td colspan="2">shalat dzuhur</td>
+     </table>
+
+</table>
+<h2> test1</h2>
+<table border="1">
+<tr>
+    <td>
+        1
+    </td>
+    <td>2</td>
+    <td>3</td>
+</tr>
+
+<tr>
+
+<td>4</td>
+<td>5</td>
+<td>6</td>
+</tr>
+</table>
+
+<h2> test2</h2>
+<table border="1">
+    <tr>
+        <th>senin</th>
+        <td>10.30</td>
+        <td>12.00</td>
+        <td>14.00</td>
+    </tr>
+    <tr>
+        <th>selasa</th>
+         <td>9.30</td>
+        <td>10.30</td>
+        <td>12.00</td>
+    </tr>
+    
+</table>
+
+<h2>test 3</h2>
+
+<table border="1">
+<tr>
+    <th>senin</th>
+    <th>selasa</th>
+</tr>
+<tr>
+    <td>10.00</td>
+    <td>11.00</td>
+</tr>
+<tr>
+    <td>12.00</td>
+    <td>14.00</td>
+</tr>
+</table>
+
+<h2>test 4</h2>
+<table border="1">
+<th></th>
+<th>senin</th>
+<tr>
+    <th>10:00</th>
+    <td>berangkat ke sekolah</td>
+</tr>
+<tr>
+    <th>12.00</th>
+    <td>berolahraga</td>
+</tr>
+</table>
+<h2>test 5</h2>
+<table border="1">
+    <th></th>
+    <th>senin</th>
+    <th>selasa</th>
+<tr>
+    <th>10.40</th>
+    <td>berangkat ke sekolah</td>
+    <td>berangkat ke olahraga</td>
+</tr>
+<tr>
+    <th rowspan="2">12.00</th>
+    <td colspan="2">makan siang</td>
+    <tr>
+        <td colspan="2">shalat dzuhur</td>
+    </tr>
+</tr>
+
+</table>
+
+</body>
+</html>
+    <!--🟩 1. <table>
+Kepanjangan: Table
+Fungsi: Digunakan untuk membuat tabel di halaman web. Semua
+tag lain seperti <tr>, <td>, dan <th> ditulis di dalam tag <table>.
+
+🟩 2. <tr>
+Kepanjangan: Table Row
+Fungsi: Digunakan untuk membuat baris dalam tabel. Di
+dalam <tr>, biasanya terdapat <td> atau <th>.
+
+🟩 3. <td>
+Kepanjangan: Table Data
+Fungsi: Digunakan untuk membuat sel biasa (data) di
+dalam tabel. Isinya berupa teks normal
+(tidak tebal dan tidak rata tengah secara default).
+
+🟩 4. <th>
+Kepanjangan: Table Header
+Fungsi: Digunakan untuk membuat s
+el header atau judul kolom/baris.
+Teks dalam <th> ditampilkan tebal dan rata tengah secara default.
+
+🟩 5. <border>
+fungsi border adalah mengatur tampilan garis tepi tabel.
+
+🟩 6. <colspan>
+Fungsi colspan dalam HTML adalah untuk menggabungkan beberapa kolom dalam sebuah tabel menjadi satu sel yang lebih lebar. Atribut 
+ini diterapkan pada tag <td> (sel data) atau <th> (sel header) untuk menentukan berapa banyak kolom yang akan dicakup oleh sel tersebut. 
+-->
