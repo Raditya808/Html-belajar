@@ -20,5 +20,3 @@ Kumpulan file untuk latihan dasar HTML.
 
 ---
 
-### Tambahan
-📂 Folder `Latihan html versi sendiri` berisi latihan pribadi tambahan.
