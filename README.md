@@ -1,19 +1,24 @@
 # Belajar HTML Dasar
 
+Kumpulan file untuk latihan dasar HTML.
+
 ## Daftar Materi
-1. [Pengenalan](1.html)  
-2. [Heading dan Paragraf](2.Heading Dan Paragraf.html)  
-3. [Underline, Superscript dan Subscript](3.Underline Superscript dan Subscript.html)  
-4. [Line Break & Horizontal Rules](4.Line Break Horizontal Rules.html)  
-5. [Strong, Emphasis, Blockquote, dan Quote](5.Strong, Emphasis ,Blockquote, dan Quote.html)  
-6. [Extra Tag](6.Extra Tag.html)  
-7. [Latihan](7.Latihan.html)  
-8. [List (Order, Unorder, Definition)](8.list.order list.unorder list.definition list .html)  
-9. [Link dan Multi Page](9. link dan multi page.html)  
-10. [Attribute](10.html atribute.html)  
-11. [Tabel](11.Tabel.html)  
-12. [Form](12.form.html)  
-13. [Latihan HTML](13.Latihan html)  
-14. [Gambar](14.Gambar)  
+1. [Pengenalan](Belajar%20HTML%20dasar/1.html)  
+2. [Heading dan Paragraf](Belajar%20HTML%20dasar/2.Heading%20Dan%20Paragraf.html)  
+3. [Underline, Superscript dan Subscript](Belajar%20HTML%20dasar/3.Underline%20Superscript%20dan%20Subscript.html)  
+4. [Line Break & Horizontal Rules](Belajar%20HTML%20dasar/4.Line%20Break%20Horizontal%20Rules.html)  
+5. [Strong, Emphasis, Blockquote, dan Quote](Belajar%20HTML%20dasar/5.Strong,%20Emphasis%20,Blockquote,%20dan%20Quote.html)  
+6. [Extra Tag](Belajar%20HTML%20dasar/6.Extra%20Tag.html)  
+7. [Latihan](Belajar%20HTML%20dasar/7.Latihan.html)  
+8. [List (Order, Unorder, Definition)](Belajar%20HTML%20dasar/8.list.order%20list.unorder%20list.definition%20list%20.html)  
+9. [Link dan Multi Page](Belajar%20HTML%20dasar/9.%20link%20dan%20multi%20page.html)  
+10. [Attribute](Belajar%20HTML%20dasar/10.html%20atribute.html)  
+11. [Tabel](Belajar%20HTML%20dasar/11.Tabel.html)  
+12. [Form](Belajar%20HTML%20dasar/12.form.html)  
+13. [Latihan HTML](Belajar%20HTML%20dasar/13.Latihan%20html)  
+14. [Gambar](Belajar%20HTML%20dasar/14.Gambar)  
 
 ---
+
+### Tambahan
+📂 Folder `Latihan html versi sendiri` berisi latihan pribadi tambahan.
