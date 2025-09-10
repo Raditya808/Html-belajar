@@ -1,5 +1,3 @@
-
-
 # Belajar HTML Dasar
 
 Kumpulan file untuk latihan dasar HTML.
@@ -20,3 +18,4 @@ Kumpulan file untuk latihan dasar HTML.
 13. [Latihan HTML](Belajar%20HTML%20dasar/13.Latihan%20html/)
 14. [Gambar](Belajar%20HTML%20dasar/14.Gambar/)
 15. [Latihan HTML Versi Sendiri](Belajar%20HTML%20dasar/Latihan%20html%20versi%20sendiri/)
+****
