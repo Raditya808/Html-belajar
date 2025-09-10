@@ -11,12 +11,12 @@ Kumpulan file untuk latihan dasar HTML.
 6. [Extra Tag](Belajar%20HTML%20dasar/6.Extra%20Tag.html)  
 7. [Latihan](Belajar%20HTML%20dasar/7.Latihan.html)
 8.[List (Order, Unorder, Definition)](Belajar%20HTML%20dasar/8.%20list,order%20list,unorder%20list,definition%20list%20.html)
-10. [Link dan Multi Page](Belajar%20HTML%20dasar/9.%20link%20dan%20multi%20page.html)  
-11. [Attribute](Belajar%20HTML%20dasar/10.html%20atribute.html)  
-12. [Tabel](Belajar%20HTML%20dasar/11.Tabel.html)  
-13. [Form](Belajar%20HTML%20dasar/12.form.html)  
-14. [Latihan HTML](Belajar%20HTML%20dasar/13.Latihan%20html)  
-15. [Gambar](Belajar%20HTML%20dasar/14.Gambar)  
+9. [Link dan Multi Page](Belajar%20HTML%20dasar/9.%20link%20dan%20multi%20page.html)  
+10. [Attribute](Belajar%20HTML%20dasar/10.html%20atribute.html)  
+11. [Tabel](Belajar%20HTML%20dasar/11.Tabel.html)  
+12. [Form](Belajar%20HTML%20dasar/12.form.html)  
+13. [Latihan HTML](Belajar%20HTML%20dasar/13.Latihan%20html)  
+14. [Gambar](Belajar%20HTML%20dasar/14.Gambar)  
 
 ---
 
