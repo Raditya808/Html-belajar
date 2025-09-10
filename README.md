@@ -15,7 +15,7 @@ Kumpulan file untuk latihan dasar HTML.
 10. [Html Atribute](Belajar%20HTML%20dasar/10.html%20atribute.html)
 11. [Tabel](Belajar%20HTML%20dasar/11.Tabel.html)
 12. [Form](Belajar%20HTML%20dasar/12.form.html)
-13. [Latihan HTML](Belajar%20HTML%20dasar/13.Latihan%20html/)
+13. [Latihan HTML1](Belajar%20HTML%20dasar/13.Latihan%20html1/)
 14. [Gambar](Belajar%20HTML%20dasar/14.Gambar/)
 <br><br>[Latihan HTML Versi Sendiri](Belajar%20HTML%20dasar/Latihan%20html%20versi%20sendiri/)
 ****
