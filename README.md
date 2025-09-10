@@ -10,7 +10,8 @@ Kumpulan file untuk latihan dasar HTML.
 5. [Strong, Emphasis, Blockquote, dan Quote](Belajar%20HTML%20dasar/5.Strong,%20Emphasis%20,Blockquote,%20dan%20Quote.html)  
 6. [Extra Tag](Belajar%20HTML%20dasar/6.Extra%20Tag.html)  
 7. [Latihan](Belajar%20HTML%20dasar/7.Latihan.html)  
-8. [List (Order, Unorder, Definition)](Belajar%20HTML%20dasar/8.list_order_unorder_definition.html)
+8.[List (Order, Unorder, Definition)](Belajar%20HTML%20dasar/8.%20list,order%20list,unorder%20list,definition%20list%20.html)
+
 
 10. [Link dan Multi Page](Belajar%20HTML%20dasar/9.%20link%20dan%20multi%20page.html)  
 11. [Attribute](Belajar%20HTML%20dasar/10.html%20atribute.html)  
