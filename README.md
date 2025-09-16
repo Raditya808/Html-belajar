@@ -17,6 +17,6 @@ Kumpulan file untuk latihan dasar HTML.
 12. [Form](Belajar%20HTML%20dasar/12.form.html)
 13. [Latihan HTML1](Belajar%20HTML%20dasar/13.Latihan%20html1/)
 14. [Gambar](Belajar%20HTML%20dasar/14.Gambar/)
-15. [Video](Belajar%20html%20dasar/15.Video/)
+15. [Video](Belajar%20HTML%20dasar/15.Video/)
 <br><br>[Latihan HTML Versi Sendiri](Belajar%20HTML%20dasar/Latihan%20html%20versi%20sendiri/)
 ****
