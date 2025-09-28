@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>html video</title>
+    <link href="css/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <h1>Menampilkan Video</h1>
+    <p>Autoplay</p>
+    <video
+      src="Tachyon/tachyon.mp4"
+      width="100%"
+      height="700px"
+      controls
+      autoplay
+      poster="img/tachyon.png"
+    >
+      <p>Tachyon video</p>
+    </video>
+    <!-- <video></video> untuk menampilkan sebuah video-->
+    <!-- src dari file yaitu Tachyon/tachyon.mp4 -->
+    <!-- height yaitu mengatur tinggi dari suatu gambar atau video ->
+    <!-- width itu mengatur lebar dari gambar / video-->
+    <!-- controls berfungsi agar video nya dapat berputar -->
+    <!-- poster berfungsi untuk membuat satu frame di video dengan gambar ketika video tersebut terputar maka akan terputar juga frame gambar akan terganti dengan video-->
+    <!-- fungsi autoplay untuk membuat video nya terputar saat di di geser -->
+    <br />
+    <hr />
+    <br />
+    <h1>Vers Preload=none</h1>
+    <p>preload=none</p>
+    <video
+      src="Tachyon/tachyon.mp4"
+      width="100%"
+      height="700px"
+      preload="none"
+      poster="img/tachyon.png"
+      controls
+    ></video>
+    <!--Saat kamu tidak pakai : prelude ="none"
+	  Browser langsung muat sebagian data video saat halaman dibuka.
+ 	  Akibatnya, durasi video (misalnya 0:15) langsung kelihatan, meskipun belum diputar.
+    Saat kamu pakai : prelude="none"
+ 	  Browser tidak ambil data video sama sekali sampai user klik play.
+ 	  Karena belum ada data, browser nggak tahu durasi video, jadi cuma tampil-->
+    <br />
+    <hr />
+    <br />
+    <h1>Vers preload=auto</h1>
+    <p>preload=auto</p>
+    <video
+      src="Tachyon/tachyon.mp4"
+      preload="auto"
+      height="700px"
+      width="100%"
+      poster="img/tachyon.png"
+      controls
+      <!-- funngsi preload="auto"
+      Meminta browser untuk mulai memuat media (audio/video) sebanyak yang dianggap perlu, agar siap diputar tanpa delay.-->
+    ></video>
+    <hr>
+    <br>
+    <br>
+  </body>
+</html>
+
+
+
